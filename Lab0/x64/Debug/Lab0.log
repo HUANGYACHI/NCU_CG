@@ -1,0 +1,12 @@
+﻿  Lab0.cpp
+Lab0.obj : error LNK2019: 在函式 __imp_glutInitWindowPositionmain 中參考了無法解析的外部符號
+Lab0.obj : error LNK2019: 在函式 __imp_glutInitWindowSizemain 中參考了無法解析的外部符號
+Lab0.obj : error LNK2019: 在函式 __imp_glutInitDisplayModemain 中參考了無法解析的外部符號
+Lab0.obj : error LNK2019: 在函式 __imp_glutMainLoopmain 中參考了無法解析的外部符號
+Lab0.obj : error LNK2019: 在函式 __imp_glutSwapBuffersmain 中參考了無法解析的外部符號
+Lab0.obj : error LNK2019: 在函式 __imp_glutDisplayFuncmain 中參考了無法解析的外部符號
+Lab0.obj : error LNK2019: 在函式 __imp_glutMouseFuncmain 中參考了無法解析的外部符號
+Lab0.obj : error LNK2019: 在函式 __imp___glutInitWithExitglutInit_ATEXIT_HACK 中參考了無法解析的外部符號
+Lab0.obj : error LNK2019: 在函式 __imp___glutCreateWindowWithExitglutCreateWindow_ATEXIT_HACK 中參考了無法解析的外部符號
+C:\Users\USER\Desktop\code\C++\CG\助教課sample\Lab0\Glew and Glut\freeglut\lib\freeglut.lib : warning LNK4272: 程式庫電腦類型 'x86' 與目標電腦類型 'x64' 發生衝突
+C:\Users\USER\Desktop\code\C++\CG\助教課sample\Lab0\x64\Debug\Lab0.exe : fatal error LNK1120: 9 個無法解析的外部符號
