@@ -1,0 +1,95 @@
+﻿  CGHW.cpp
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(208,11): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(371,16): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(372,16): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(373,16): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(374,16): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(381,35): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(381,31): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(388,87): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(388,42): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(391,36): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(391,32): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(398,87): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(398,42): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(424,44): warning C4244: '=': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(427,44): warning C4244: '=': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(436,198): warning C4244: '引數': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(436,154): warning C4244: '引數': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(436,110): warning C4244: '引數': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(436,83): warning C4244: '引數': 將 '_Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(442,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(539,45): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(542,45): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(552,23): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(553,23): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(554,36): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(554,33): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(554,30): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(563,27): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(603,31): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(605,35): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(607,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(626,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(628,124): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(628,96): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(628,68): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(628,40): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(661,26): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(662,26): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(663,26): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(697,31): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(740,24): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(749,23): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(763,31): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(789,22): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(790,22): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(791,22): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(792,22): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(797,32): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(802,31): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(815,29): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(828,35): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(830,99): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(830,93): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(830,87): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(830,81): warning C4244: '引數': 將 'int' 轉換為 'const float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(837,35): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(839,51): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(842,51): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(848,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(851,35): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(852,35): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(853,48): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(853,45): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(853,42): warning C4244: '引數': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(862,39): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(863,37): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(864,41): warning C4244: '正在初始化': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(884,37): warning C4018: '<': signed/unsigned 不相符
+C:\Users\WMlab\Documents\CG\CGHW\CGHW.cpp(885,41): warning C4018: '<': signed/unsigned 不相符
+  CGHW.vcxproj -> C:\Users\WMlab\Documents\CG\CGHW\Debug\CGHW.exe
